@@ -1,0 +1,29 @@
+{
+  "name": "Photofolio Stella Carvalho",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "id": "phsc",
+  "description": "O Photofolio é um facilitador e um elo que faz com que eu, Stella Carvalho, me conecte com você, meu possível cliente.",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://stellacarvalho.netlify.app/",
+      "id": "sc"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Stella Carvalho",
+      "url": "https://stellacarvalho.netlify.app/",
+      "description": ""
+    }
+  ],
+  "categories": [
+    "entertainment",
+    "lifestyle",
+    "magazines",
+    "productivity",
+    "social"
+  ],
+  "short_name": "stellacarv"
+}
