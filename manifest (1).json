@@ -4,18 +4,19 @@
   "background_color": "#000000",
   "short_name": "phsc",
   "id": "Photofolio",
-  "description": "Site criado para facilitar a vida da modelo Stella Carvalho e a dos seus futuros clientes."
+  "description": "Site criado para facilitar a vida da modelo Stella Carvalho e a dos seus futuros clientes.",
   "start_url": "https://stellacarvalho.netlify.app/",
   "display": "standalone",
   "icons": [
     {
-      "assets/img/star.png",
+      "src": "assets/img/star.png",
       "sizes": "192x192",
-      "type": "image,png"
+      "type": "image/png"
     },
-  {
-    "src":"assets/img/star.png",
-    "sizes": "512x512",
-    "type" "image/png":
-}
+    {
+      "src": "assets/img/star.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
+}
